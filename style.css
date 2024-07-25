@@ -4,3 +4,9 @@
 .cor{
     background-color: #382A2A;
 }
+
+header{
+    background-image: url(download\ 1.png);
+    background-size: 100%;
+    padding: 3% 0;
+}
